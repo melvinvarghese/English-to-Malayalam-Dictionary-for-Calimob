@@ -4,6 +4,8 @@ An English–Malayalam offline dictionary for CaliMob ebook reader. Download the
 
 This project makes an English-to-Malayalam dictionary available to CaliMob users by packaging dictionary data in the StarDict format supported by its dictionary importer.
 
+![English–Malayalam Dictionary for CaliMob](assets/163937.jpg)
+
 📥 Download the Dictionary
 
 "Download English–Malayalam Dictionary ZIP" (https://github.com/melvinvarghese/English-to-Malayalam-Dictionary-for-Calimob/raw/refs/heads/main/English-to-Malayalam-Calimob-Dictionary_melvinvarghee.in.zip)
