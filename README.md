@@ -6,7 +6,7 @@ An offline English–Malayalam dictionary for the [CaliMob](https://caliwebapp.c
 
 ## Download
 
-[Download the dictionary ZIP](https://github.com/melvinvarghese/English-to-Malayalam-Dictionary-for-Calimob/raw/refs/heads/main/English-to-Malayalam-Calimob-Dictionary_melvinvarghee.in.zip)
+[Download the dictionary ZIP](https://github.com/melvinvarghese/English-to-Malayalam-Dictionary-for-Calimob/raw/refs/heads/main/English-to-Malayalam-Calimob-Dictionary_melvinvarghese.in.zip)
 
 The dictionary is in StarDict format, which CaliMob's custom dictionary option can import.
 
@@ -17,7 +17,7 @@ The dictionary is in StarDict format, which CaliMob's custom dictionary option c
 3. Paste this link into it:
 
    ```
-   https://github.com/melvinvarghese/English-to-Malayalam-Dictionary-for-Calimob/raw/refs/heads/main/English-to-Malayalam-Calimob-Dictionary_melvinvarghee.in.zip
+   https://github.com/melvinvarghese/English-to-Malayalam-Dictionary-for-Calimob/raw/refs/heads/main/English-to-Malayalam-Calimob-Dictionary_melvinvarghese.in.zip
    ```
 
 4. Tap the download icon and wait for the dictionary to install.
